@@ -17,7 +17,7 @@ async def maintainers(b,m):
     except Exception:
                 await b.send_message(
                     chat_id=m.chat.id,
-                    text="I am Coded By [Adarsh Goel](https://t.me/KhallMheTyler)",
+                    text="I am Coded By [TYLER](https://t.me/KhallMheTyler)",
                     
                     reply_markup=InlineKeyboardMarkup(
                         [
